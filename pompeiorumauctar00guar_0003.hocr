@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pompeiorumauctar00guar_0003.png"; bbox 0 0 1596 2734; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 183 182 1491 447">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 183 182 1491 447">
+     <span class='ocr_line' id='line_1_1' title="bbox 226 182 1491 265; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 226 186 336 262; x_wconf 90' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 382 187 705 263; x_wconf 78' lang='lat' dir='ltr'><strong>SACRA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 756 182 1491 265; x_wconf 73' lang='lat' dir='ltr'>POMPEIORVM‘</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 183 393 1490 447; baseline 0.007 -10"><span class='ocrx_word' id='word_1_4' title='bbox 183 393 562 445; x_wconf 74' lang='lat' dir='ltr'><strong>AchARwM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 608 397 750 445; x_wconf 85' lang='lat' dir='ltr'><strong>CVM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 805 396 1490 447; x_wconf 76' lang='lat' dir='ltr'><strong>ANIMADVERSIONIBVS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 541 572 1132 625">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 541 572 1132 625">
+     <span class='ocr_line' id='line_1_3' title="bbox 541 572 1132 625; baseline 0.002 -1"><span class='ocrx_word' id='word_1_7' title='bbox 541 583 1009 624; x_wconf 79' lang='lat' dir='ltr'>COMMENTARIVM</span> <span class='ocrx_word' id='word_1_8' title='bbox 1039 572 1132 625; x_wconf 75' lang='lat' dir='ltr'>vii.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 496 750 1179 806">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 496 750 1179 806">
+     <span class='ocr_line' id='line_1_4' title="bbox 496 750 1179 806; baseline 0.001 -2"><span class='ocrx_word' id='word_1_9' title='bbox 496 757 846 806; x_wconf 66' lang='lat' dir='ltr'><strong>RAYMVNDI</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 883 750 1179 806; x_wconf 85' lang='lat' dir='ltr'><strong>GVARINI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 630 2188 1080 2234">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 630 2188 1080 2234">
+     <span class='ocr_line' id='line_1_5' title="bbox 630 2188 1080 2234; baseline -0.004 -1"><span class='ocrx_word' id='word_1_11' title='bbox 630 2188 1080 2234; x_wconf 81' lang='lat' dir='ltr'><strong>NEAPOLI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 371 2300 1335 2333">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 371 2300 1335 2333">
+     <span class='ocr_line' id='line_1_6' title="bbox 371 2300 1335 2333; baseline -0.003 -1"><span class='ocrx_word' id='word_1_12' title='bbox 371 2304 526 2333; x_wconf 77' lang='lat' dir='ltr'>TYPIS</span> <span class='ocrx_word' id='word_1_13' title='bbox 558 2301 881 2331; x_wconf 71' lang='lat' dir='ltr'>SOCOETATIS</span> <span class='ocrx_word' id='word_1_14' title='bbox 916 2301 1034 2328; x_wconf 71' lang='lat' dir='ltr'>IIIII</span> <span class='ocrx_word' id='word_1_15' title='bbox 1047 2300 1335 2330; x_wconf 73' lang='lat' dir='ltr'>OMATICAE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 791 2389 912 2399">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 791 2389 912 2399">
+     <span class='ocr_line' id='line_1_7' title="bbox 791 2389 912 2399; baseline -0.025 0"><span class='ocrx_word' id='word_1_16' title='bbox 791 2389 912 2399; x_wconf 82' lang='lat'><strong>--—</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 783 2442 953 2499">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 783 2442 953 2499">
+     <span class='ocr_line' id='line_1_8' title="bbox 783 2442 953 2499; baseline 0.006 -1"><span class='ocrx_word' id='word_1_17' title='bbox 783 2442 953 2499; x_wconf 79' lang='lat'>1825.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
